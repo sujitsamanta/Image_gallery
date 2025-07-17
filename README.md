@@ -8,7 +8,7 @@
 </p>
 
 Home page of the admin dasbord:
-![image alt]()
+![image alt](https://github.com/sujitsamanta/Image_gallery/blob/main/public/assets/banner1.png?raw=true)
 
 
 
